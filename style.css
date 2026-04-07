@@ -3,8 +3,8 @@
   --card: #ffffff;
   --text: #0f172a;
   --text-soft: #475569;
-  --primary: #6366f1;
-  --primary-dark: #4f46e5;
+  --primary: #8586d8;
+  --primary-dark: #7e79e4;
   --border: #e2e8f0;
 }
 
@@ -13,8 +13,8 @@
   --card: #1e293b;
   --text: #f1f5f9;
   --text-soft: #94a3b8;
-  --primary: #818cf8;
-  --primary-dark: #6366f1;
+  --primary: #81d2f8;
+  --primary-dark: #6390f1;
   --border: #334155;
 }
 
@@ -83,7 +83,7 @@ h1 {
 
 button {
   background: var(--primary);
-  color: white;
+  color: rgb(100, 83, 255);
   border: none;
   padding: 0 20px;
   border-radius: 12px;
@@ -108,7 +108,7 @@ li {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.06);
+  box-shadow: 0 2px 4px rgba(236, 0, 0, 0.596);
   transition: all 0.2s;
 }
 
@@ -126,7 +126,7 @@ li .actions button {
 }
 
 li .actions .delete {
-  color: #ef4444;
+  color: #ff0000;
 }
 
 #stats {
