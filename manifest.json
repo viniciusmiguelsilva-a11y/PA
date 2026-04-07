@@ -1,6 +1,6 @@
 {
-  "name": "Minhas Tarefas",
-  "short_name": "Tarefas",
+  "name": "Meus Sonhos",
+  "short_name": "Sonhos",
   "description": "Lista de tarefas offline e instalável",
   "start_url": "/",
   "display": "standalone",
